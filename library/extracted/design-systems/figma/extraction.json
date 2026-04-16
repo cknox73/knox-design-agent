@@ -1,0 +1,300 @@
+{
+  "metadata": {
+    "url": "https://www.figma.com",
+    "extractedAt": "2026-04-16T10:51:18.887Z",
+    "name": "Figma"
+  },
+  "tokens": {
+    "colors": [
+      {
+        "hex": "#000000",
+        "usage": "html",
+        "frequency": 2296
+      },
+      {
+        "hex": "#ffffff",
+        "usage": "div",
+        "frequency": 684
+      },
+      {
+        "hex": "#697485",
+        "usage": "p",
+        "frequency": 44
+      },
+      {
+        "hex": "rgba(0, 0, 0, 0.65)",
+        "usage": "span",
+        "frequency": 16
+      },
+      {
+        "hex": "rgba(255, 255, 255, 0.6)",
+        "usage": "h2",
+        "frequency": 10
+      },
+      {
+        "hex": "rgba(0, 0, 0, 0.16)",
+        "usage": "article",
+        "frequency": 8
+      },
+      {
+        "hex": "#33dfdf",
+        "usage": "svg",
+        "frequency": 6
+      },
+      {
+        "hex": "#b98e01",
+        "usage": "svg",
+        "frequency": 6
+      },
+      {
+        "hex": "rgba(0, 0, 0, 0.08)",
+        "usage": "div",
+        "frequency": 5
+      },
+      {
+        "hex": "rgba(255, 255, 255, 0.16)",
+        "usage": "button",
+        "frequency": 5
+      },
+      {
+        "hex": "rgba(255, 255, 255, 0.24)",
+        "usage": "a",
+        "frequency": 4
+      },
+      {
+        "hex": "#808080",
+        "usage": "hr",
+        "frequency": 2
+      },
+      {
+        "hex": "#e6e6e6",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "#4d49fc",
+        "usage": "a",
+        "frequency": 1
+      },
+      {
+        "hex": "#f3ffe3",
+        "usage": "section",
+        "frequency": 1
+      },
+      {
+        "hex": "#e2e2e2",
+        "usage": "section",
+        "frequency": 1
+      },
+      {
+        "hex": "#e4ff97",
+        "usage": "a",
+        "frequency": 1
+      },
+      {
+        "hex": "#00b6ff",
+        "usage": "a",
+        "frequency": 1
+      },
+      {
+        "hex": "#24cb71",
+        "usage": "a",
+        "frequency": 1
+      },
+      {
+        "hex": "#c4baff",
+        "usage": "a",
+        "frequency": 1
+      },
+      {
+        "hex": "#95b9ac",
+        "usage": "a",
+        "frequency": 1
+      },
+      {
+        "hex": "#ff7237",
+        "usage": "a",
+        "frequency": 1
+      },
+      {
+        "hex": "#cb9fd2",
+        "usage": "a",
+        "frequency": 1
+      },
+      {
+        "hex": "#ffc9c1",
+        "usage": "a",
+        "frequency": 1
+      },
+      {
+        "hex": "#721c1c",
+        "usage": "a",
+        "frequency": 1
+      },
+      {
+        "hex": "#c7f8fb",
+        "usage": "a",
+        "frequency": 1
+      },
+      {
+        "hex": "rgba(0, 0, 0, 0.5)",
+        "usage": "div",
+        "frequency": 1
+      }
+    ],
+    "typography": [
+      {
+        "fontFamily": "figmaSans",
+        "fontSize": "18px",
+        "element": "p"
+      },
+      {
+        "fontFamily": "figmaSans",
+        "fontSize": "16px",
+        "element": "button"
+      },
+      {
+        "fontFamily": "figmaSans",
+        "fontSize": "24px",
+        "element": "p"
+      },
+      {
+        "fontFamily": "figmaMono",
+        "fontSize": "16px",
+        "element": "h2"
+      },
+      {
+        "fontFamily": "figmaSans",
+        "fontSize": "72px",
+        "element": "h1"
+      },
+      {
+        "fontFamily": "figmaSans",
+        "fontSize": "56px",
+        "element": "h2"
+      }
+    ],
+    "spacing": [
+      {
+        "value": "12px",
+        "frequency": 71
+      },
+      {
+        "value": "8px",
+        "frequency": 29
+      },
+      {
+        "value": "16px",
+        "frequency": 26
+      },
+      {
+        "value": "32px",
+        "frequency": 12
+      },
+      {
+        "value": "2px",
+        "frequency": 10
+      },
+      {
+        "value": "120px",
+        "frequency": 8
+      },
+      {
+        "value": "40px",
+        "frequency": 6
+      },
+      {
+        "value": "4px",
+        "frequency": 6
+      },
+      {
+        "value": "24px",
+        "frequency": 4
+      },
+      {
+        "value": "48px",
+        "frequency": 3
+      },
+      {
+        "value": "64px",
+        "frequency": 2
+      },
+      {
+        "value": "6px",
+        "frequency": 1
+      },
+      {
+        "value": "56px",
+        "frequency": 1
+      },
+      {
+        "value": "1px",
+        "frequency": 1
+      },
+      {
+        "value": "180px",
+        "frequency": 1
+      },
+      {
+        "value": "46px",
+        "frequency": 1
+      }
+    ]
+  },
+  "components": [
+    {
+      "type": "button",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "button",
+      "styles": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "12px 21px",
+        "borderRadius": "8px"
+      }
+    },
+    {
+      "type": "navbar",
+      "styles": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "navbar",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "hero",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "hero",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    }
+  ]
+}

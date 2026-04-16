@@ -1,0 +1,506 @@
+{
+  "metadata": {
+    "url": "https://www.framer.com",
+    "extractedAt": "2026-04-16T10:54:33.417Z",
+    "name": "Framer"
+  },
+  "tokens": {
+    "colors": [
+      {
+        "hex": "#000000",
+        "usage": "html",
+        "frequency": 3878
+      },
+      {
+        "hex": "#0000ee",
+        "usage": "a",
+        "frequency": 3168
+      },
+      {
+        "hex": "#ffffff",
+        "usage": "div",
+        "frequency": 624
+      },
+      {
+        "hex": "rgba(255, 255, 255, 0.6)",
+        "usage": "p",
+        "frequency": 317
+      },
+      {
+        "hex": "#a6a6a6",
+        "usage": "p",
+        "frequency": 100
+      },
+      {
+        "hex": "#0099ff",
+        "usage": "p",
+        "frequency": 28
+      },
+      {
+        "hex": "#cccccc",
+        "usage": "p",
+        "frequency": 24
+      },
+      {
+        "hex": "#999999",
+        "usage": "p",
+        "frequency": 22
+      },
+      {
+        "hex": "rgba(255, 255, 255, 0.4)",
+        "usage": "a",
+        "frequency": 17
+      },
+      {
+        "hex": "#8c8c8c",
+        "usage": "p",
+        "frequency": 16
+      },
+      {
+        "hex": "rgba(255, 255, 255, 0.1)",
+        "usage": "div",
+        "frequency": 15
+      },
+      {
+        "hex": "rgba(0, 153, 255, 0.15)",
+        "usage": "div",
+        "frequency": 15
+      },
+      {
+        "hex": "#080808",
+        "usage": "div",
+        "frequency": 13
+      },
+      {
+        "hex": "rgba(255, 255, 255, 0.08)",
+        "usage": "div",
+        "frequency": 12
+      },
+      {
+        "hex": "#2b2b2b",
+        "usage": "div",
+        "frequency": 10
+      },
+      {
+        "hex": "rgba(255, 255, 255, 0.15)",
+        "usage": "a",
+        "frequency": 6
+      },
+      {
+        "hex": "rgba(255, 255, 255, 0.8)",
+        "usage": "p",
+        "frequency": 4
+      },
+      {
+        "hex": "#242424",
+        "usage": "div",
+        "frequency": 4
+      },
+      {
+        "hex": "#171717",
+        "usage": "div",
+        "frequency": 3
+      },
+      {
+        "hex": "rgba(0, 0, 0, 0.03)",
+        "usage": "div",
+        "frequency": 3
+      },
+      {
+        "hex": "rgba(255, 255, 255, 0.05)",
+        "usage": "div",
+        "frequency": 2
+      },
+      {
+        "hex": "rgba(8, 8, 8, 0.7)",
+        "usage": "div",
+        "frequency": 2
+      },
+      {
+        "hex": "#1a1a1a",
+        "usage": "div",
+        "frequency": 2
+      },
+      {
+        "hex": "#222222",
+        "usage": "p",
+        "frequency": 2
+      },
+      {
+        "hex": "#888888",
+        "usage": "div",
+        "frequency": 2
+      },
+      {
+        "hex": "#202020",
+        "usage": "p",
+        "frequency": 2
+      },
+      {
+        "hex": "#212121",
+        "usage": "div",
+        "frequency": 2
+      },
+      {
+        "hex": "rgba(255, 255, 255, 0)",
+        "usage": "div",
+        "frequency": 2
+      },
+      {
+        "hex": "rgba(0, 0, 0, 0.7)",
+        "usage": "nav",
+        "frequency": 1
+      },
+      {
+        "hex": "#121212",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "#0055ff",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "#3d3d3d",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "#fd5d5c",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "#fac80a",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "#33c659",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "rgba(0, 132, 255, 0.12)",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "rgba(8, 154, 255, 0.2)",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "#111111",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "rgba(0, 0, 0, 0.6)",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "rgba(0, 0, 0, 0.25)",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "#3a92fd",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "#9869fd",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "#33aaff",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "#1c1c1c",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "#2e2e2e",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "rgba(0, 153, 255, 0.1)",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "rgba(0, 0, 0, 0.88)",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "rgba(255, 255, 255, 0.2)",
+        "usage": "a",
+        "frequency": 1
+      }
+    ],
+    "typography": [
+      {
+        "fontFamily": "sans-serif",
+        "fontSize": "12px",
+        "element": "a"
+      },
+      {
+        "fontFamily": "Inter Variable",
+        "fontSize": "14px",
+        "element": "p"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": "12px",
+        "element": "p"
+      },
+      {
+        "fontFamily": "GT Walsheim Framer Medium",
+        "fontSize": "110px",
+        "element": "h1"
+      },
+      {
+        "fontFamily": "Inter Variable",
+        "fontSize": "24px",
+        "element": "p"
+      },
+      {
+        "fontFamily": "Inter Variable",
+        "fontSize": "15px",
+        "element": "p"
+      },
+      {
+        "fontFamily": "GT Walsheim Medium",
+        "fontSize": "62px",
+        "element": "h2"
+      },
+      {
+        "fontFamily": "Inter Variable",
+        "fontSize": "18px",
+        "element": "p"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": "13px",
+        "element": "p"
+      },
+      {
+        "fontFamily": "Mona Sans",
+        "fontSize": "12px",
+        "element": "p"
+      },
+      {
+        "fontFamily": "Mona Sans",
+        "fontSize": "18px",
+        "element": "h3"
+      },
+      {
+        "fontFamily": "Mona Sans",
+        "fontSize": "13px",
+        "element": "p"
+      },
+      {
+        "fontFamily": "Mona Sans",
+        "fontSize": "17px",
+        "element": "p"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": "22px",
+        "element": "p"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": "20px",
+        "element": "h6"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": "14px",
+        "element": "p"
+      },
+      {
+        "fontFamily": "Open Runde",
+        "fontSize": "9px",
+        "element": "p"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": "10px",
+        "element": "p"
+      },
+      {
+        "fontFamily": "GT Walsheim Medium",
+        "fontSize": "32px",
+        "element": "p"
+      },
+      {
+        "fontFamily": "GT Walsheim Medium",
+        "fontSize": "85px",
+        "element": "h5"
+      },
+      {
+        "fontFamily": "Inter Variable",
+        "fontSize": "12px",
+        "element": "p"
+      },
+      {
+        "fontFamily": "Inter Variable",
+        "fontSize": "8px",
+        "element": "p"
+      },
+      {
+        "fontFamily": "Inter Variable",
+        "fontSize": "7px",
+        "element": "p"
+      }
+    ],
+    "spacing": [
+      {
+        "value": "10px",
+        "frequency": 62
+      },
+      {
+        "value": "60px",
+        "frequency": 40
+      },
+      {
+        "value": "2px",
+        "frequency": 28
+      },
+      {
+        "value": "1px",
+        "frequency": 11
+      },
+      {
+        "value": "5px",
+        "frequency": 10
+      },
+      {
+        "value": "20px",
+        "frequency": 7
+      },
+      {
+        "value": "15px",
+        "frequency": 7
+      },
+      {
+        "value": "3px",
+        "frequency": 6
+      },
+      {
+        "value": "40px",
+        "frequency": 6
+      },
+      {
+        "value": "160px",
+        "frequency": 5
+      },
+      {
+        "value": "4px",
+        "frequency": 4
+      },
+      {
+        "value": "30px",
+        "frequency": 3
+      },
+      {
+        "value": "80px",
+        "frequency": 2
+      },
+      {
+        "value": "8px",
+        "frequency": 2
+      },
+      {
+        "value": "12px",
+        "frequency": 2
+      },
+      {
+        "value": "64px",
+        "frequency": 1
+      },
+      {
+        "value": "6px",
+        "frequency": 1
+      },
+      {
+        "value": "50px",
+        "frequency": 1
+      },
+      {
+        "value": "35px",
+        "frequency": 1
+      },
+      {
+        "value": "120px",
+        "frequency": 1
+      }
+    ]
+  },
+  "components": [
+    {
+      "type": "button",
+      "styles": {
+        "backgroundColor": "rgba(255, 255, 255, 0.1)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px",
+        "borderRadius": "40px"
+      }
+    },
+    {
+      "type": "button",
+      "styles": {
+        "backgroundColor": "rgba(255, 255, 255, 0.1)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px",
+        "borderRadius": "40px"
+      }
+    },
+    {
+      "type": "navbar",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0.7)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px 20px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "navbar",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px 40px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "hero",
+      "styles": {
+        "backgroundColor": "rgb(0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "80px 0px 0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "hero",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    }
+  ]
+}

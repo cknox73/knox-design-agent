@@ -1,0 +1,147 @@
+{
+  "metadata": {
+    "url": "https://fontsinuse.com",
+    "extractedAt": "2026-04-16T10:56:11.793Z",
+    "name": "Fonts In Use"
+  },
+  "tokens": {
+    "colors": [
+      {
+        "hex": "#000000",
+        "usage": "html",
+        "frequency": 3921
+      },
+      {
+        "hex": "#ffffff",
+        "usage": "body",
+        "frequency": 2056
+      },
+      {
+        "hex": "#f0f0f0",
+        "usage": "div",
+        "frequency": 118
+      },
+      {
+        "hex": "rgba(0, 0, 0, 0.8)",
+        "usage": "div",
+        "frequency": 59
+      },
+      {
+        "hex": "#999999",
+        "usage": "span",
+        "frequency": 14
+      },
+      {
+        "hex": "rgba(0, 64, 220, 0.05)",
+        "usage": "div",
+        "frequency": 12
+      },
+      {
+        "hex": "#dddddd",
+        "usage": "li",
+        "frequency": 8
+      }
+    ],
+    "typography": [
+      {
+        "fontFamily": "BentonSansRE",
+        "fontSize": "14px",
+        "element": "a"
+      },
+      {
+        "fontFamily": "BentonSansRE",
+        "fontSize": "12px",
+        "element": "a"
+      },
+      {
+        "fontFamily": "BentonSansRE",
+        "fontSize": "10px",
+        "element": "a"
+      },
+      {
+        "fontFamily": "RelayCond",
+        "fontSize": "36px",
+        "element": "h2"
+      },
+      {
+        "fontFamily": "BentonSansRE",
+        "fontSize": "9px",
+        "element": "a"
+      },
+      {
+        "fontFamily": "BentonSansRE",
+        "fontSize": "16px",
+        "element": "h5"
+      },
+      {
+        "fontFamily": "RelayCond",
+        "fontSize": "32px",
+        "element": "h4"
+      },
+      {
+        "fontFamily": "RelayCond",
+        "fontSize": "24px",
+        "element": "h4"
+      }
+    ],
+    "spacing": [
+      {
+        "value": "10px",
+        "frequency": 72
+      },
+      {
+        "value": "5px",
+        "frequency": 9
+      },
+      {
+        "value": "3px",
+        "frequency": 5
+      },
+      {
+        "value": "30px",
+        "frequency": 2
+      },
+      {
+        "value": "1px",
+        "frequency": 1
+      },
+      {
+        "value": "20px",
+        "frequency": 1
+      },
+      {
+        "value": "8px",
+        "frequency": 1
+      }
+    ]
+  },
+  "components": [
+    {
+      "type": "input",
+      "styles": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px 10px",
+        "borderRadius": "3px"
+      }
+    },
+    {
+      "type": "navbar",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "navbar",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    }
+  ]
+}

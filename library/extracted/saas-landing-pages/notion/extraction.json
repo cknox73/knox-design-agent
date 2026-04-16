@@ -1,0 +1,483 @@
+{
+  "metadata": {
+    "url": "https://www.notion.so",
+    "extractedAt": "2026-04-16T10:51:37.644Z",
+    "name": "Notion"
+  },
+  "tokens": {
+    "colors": [
+      {
+        "hex": "rgba(0, 0, 0, 0.9)",
+        "usage": "div",
+        "frequency": 784
+      },
+      {
+        "hex": "rgba(0, 0, 0, 0.95)",
+        "usage": "html",
+        "frequency": 739
+      },
+      {
+        "hex": "#f6f5f4",
+        "usage": "div",
+        "frequency": 379
+      },
+      {
+        "hex": "rgba(0, 0, 0, 0.54)",
+        "usage": "span",
+        "frequency": 295
+      },
+      {
+        "hex": "#31302e",
+        "usage": "li",
+        "frequency": 168
+      },
+      {
+        "hex": "#ffffff",
+        "usage": "html",
+        "frequency": 154
+      },
+      {
+        "hex": "#a39e98",
+        "usage": "button",
+        "frequency": 136
+      },
+      {
+        "hex": "#000000",
+        "usage": "h2",
+        "frequency": 69
+      },
+      {
+        "hex": "#615d59",
+        "usage": "div",
+        "frequency": 48
+      },
+      {
+        "hex": "rgba(255, 255, 255, 0)",
+        "usage": "a",
+        "frequency": 39
+      },
+      {
+        "hex": "#097fe8",
+        "usage": "span",
+        "frequency": 32
+      },
+      {
+        "hex": "#0075de",
+        "usage": "a",
+        "frequency": 30
+      },
+      {
+        "hex": "#62aef0",
+        "usage": "span",
+        "frequency": 25
+      },
+      {
+        "hex": "#f64932",
+        "usage": "span",
+        "frequency": 18
+      },
+      {
+        "hex": "#9c7054",
+        "usage": "span",
+        "frequency": 16
+      },
+      {
+        "hex": "#ff6d00",
+        "usage": "span",
+        "frequency": 16
+      },
+      {
+        "hex": "#78736f",
+        "usage": "span",
+        "frequency": 14
+      },
+      {
+        "hex": "rgba(0, 0, 0, 0.1)",
+        "usage": "button",
+        "frequency": 13
+      },
+      {
+        "hex": "#9849e8",
+        "usage": "span",
+        "frequency": 12
+      },
+      {
+        "hex": "#ffb110",
+        "usage": "span",
+        "frequency": 12
+      },
+      {
+        "hex": "#27918d",
+        "usage": "span",
+        "frequency": 8
+      },
+      {
+        "hex": "rgba(0, 0, 0, 0.59)",
+        "usage": "p",
+        "frequency": 8
+      },
+      {
+        "hex": "#02093a",
+        "usage": "div",
+        "frequency": 6
+      },
+      {
+        "hex": "#f7f7f5",
+        "usage": "div",
+        "frequency": 6
+      },
+      {
+        "hex": "#191918",
+        "usage": "body",
+        "frequency": 4
+      },
+      {
+        "hex": "#f2f9ff",
+        "usage": "span",
+        "frequency": 4
+      },
+      {
+        "hex": "#005bab",
+        "usage": "span",
+        "frequency": 4
+      },
+      {
+        "hex": "rgba(255, 255, 255, 0.75)",
+        "usage": "p",
+        "frequency": 4
+      },
+      {
+        "hex": "#f9f9f8",
+        "usage": "span",
+        "frequency": 3
+      },
+      {
+        "hex": "#2a9d99",
+        "usage": "span",
+        "frequency": 3
+      },
+      {
+        "hex": "#fcf8f5",
+        "usage": "span",
+        "frequency": 2
+      },
+      {
+        "hex": "#fff5ed",
+        "usage": "span",
+        "frequency": 2
+      },
+      {
+        "hex": "#fef3f1",
+        "usage": "span",
+        "frequency": 2
+      },
+      {
+        "hex": "#f8f5fc",
+        "usage": "span",
+        "frequency": 2
+      },
+      {
+        "hex": "#455dd3",
+        "usage": "a",
+        "frequency": 2
+      },
+      {
+        "hex": "#ffc95e",
+        "usage": "span",
+        "frequency": 2
+      },
+      {
+        "hex": "#f77463",
+        "usage": "span",
+        "frequency": 2
+      },
+      {
+        "hex": "#ad6ded",
+        "usage": "span",
+        "frequency": 2
+      },
+      {
+        "hex": "#ff8a33",
+        "usage": "span",
+        "frequency": 2
+      },
+      {
+        "hex": "#ff83dd",
+        "usage": "span",
+        "frequency": 2
+      },
+      {
+        "hex": "#b18164",
+        "usage": "span",
+        "frequency": 2
+      },
+      {
+        "hex": "#f2fafa",
+        "usage": "span",
+        "frequency": 1
+      },
+      {
+        "hex": "#fff5e0",
+        "usage": "span",
+        "frequency": 1
+      },
+      {
+        "hex": "#213183",
+        "usage": "a",
+        "frequency": 1
+      },
+      {
+        "hex": "rgba(255, 255, 255, 0.1)",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "rgba(0, 0, 0, 0.05)",
+        "usage": "button",
+        "frequency": 1
+      },
+      {
+        "hex": "rgba(0, 0, 0, 0.3)",
+        "usage": "button",
+        "frequency": 1
+      },
+      {
+        "hex": "#1aae39",
+        "usage": "span",
+        "frequency": 1
+      },
+      {
+        "hex": "#c0c0c0",
+        "usage": "fieldset",
+        "frequency": 1
+      },
+      {
+        "hex": "#dddddd",
+        "usage": "input",
+        "frequency": 1
+      }
+    ],
+    "typography": [
+      {
+        "fontFamily": "NotionInter",
+        "fontSize": "16px",
+        "element": "a"
+      },
+      {
+        "fontFamily": "NotionInter",
+        "fontSize": "12px",
+        "element": "a"
+      },
+      {
+        "fontFamily": "NotionInter",
+        "fontSize": "64px",
+        "element": "h1"
+      },
+      {
+        "fontFamily": "NotionInter",
+        "fontSize": "14px",
+        "element": "p"
+      },
+      {
+        "fontFamily": "NotionInter",
+        "fontSize": "54px",
+        "element": "h2"
+      },
+      {
+        "fontFamily": "NotionInter",
+        "fontSize": "18px",
+        "element": "h2"
+      },
+      {
+        "fontFamily": "NotionInter",
+        "fontSize": "22px",
+        "element": "h2"
+      },
+      {
+        "fontFamily": "NotionInter",
+        "fontSize": "20px",
+        "element": "button"
+      },
+      {
+        "fontFamily": "NotionInter",
+        "fontSize": "26px",
+        "element": "h3"
+      },
+      {
+        "fontFamily": "NotionInter",
+        "fontSize": "15px",
+        "element": "p"
+      }
+    ],
+    "spacing": [
+      {
+        "value": "4px",
+        "frequency": 69
+      },
+      {
+        "value": "6px",
+        "frequency": 46
+      },
+      {
+        "value": "24px",
+        "frequency": 28
+      },
+      {
+        "value": "5px",
+        "frequency": 26
+      },
+      {
+        "value": "3px",
+        "frequency": 23
+      },
+      {
+        "value": "8px",
+        "frequency": 12
+      },
+      {
+        "value": "16px",
+        "frequency": 9
+      },
+      {
+        "value": "12px",
+        "frequency": 8
+      },
+      {
+        "value": "64px",
+        "frequency": 4
+      },
+      {
+        "value": "14px",
+        "frequency": 2
+      },
+      {
+        "value": "2px",
+        "frequency": 2
+      },
+      {
+        "value": "80px",
+        "frequency": 2
+      },
+      {
+        "value": "11px",
+        "frequency": 1
+      },
+      {
+        "value": "56px",
+        "frequency": 1
+      },
+      {
+        "value": "32px",
+        "frequency": 1
+      },
+      {
+        "value": "10px",
+        "frequency": 1
+      },
+      {
+        "value": "36px",
+        "frequency": 1
+      },
+      {
+        "value": "91px",
+        "frequency": 1
+      },
+      {
+        "value": "7px",
+        "frequency": 1
+      }
+    ]
+  },
+  "components": [
+    {
+      "type": "button",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(246, 245, 244)",
+        "padding": "5px 10px",
+        "borderRadius": "4px"
+      }
+    },
+    {
+      "type": "button",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(246, 245, 244)",
+        "padding": "5px 10px",
+        "borderRadius": "4px"
+      }
+    },
+    {
+      "type": "card",
+      "styles": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "color": "rgba(0, 0, 0, 0.9)",
+        "padding": "24px",
+        "borderRadius": "12px"
+      }
+    },
+    {
+      "type": "card",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgba(0, 0, 0, 0.95)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "input",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgba(0, 0, 0, 0.9)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "input",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgba(0, 0, 0, 0.9)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "navbar",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgba(0, 0, 0, 0.9)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "navbar",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(246, 245, 244)",
+        "padding": "80px 0px 0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "hero",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgba(0, 0, 0, 0.9)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "hero",
+      "styles": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "color": "rgba(0, 0, 0, 0.9)",
+        "padding": "0px",
+        "borderRadius": "12px"
+      }
+    }
+  ]
+}

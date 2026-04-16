@@ -1,0 +1,409 @@
+{
+  "metadata": {
+    "url": "https://www.allbirds.com",
+    "extractedAt": "2026-04-16T10:55:00.075Z",
+    "name": "Allbirds"
+  },
+  "tokens": {
+    "colors": [
+      {
+        "hex": "#000000",
+        "usage": "html",
+        "frequency": 4049
+      },
+      {
+        "hex": "oklch(0.373 0.034 259.733)",
+        "usage": "div",
+        "frequency": 996
+      },
+      {
+        "hex": "#ffffff",
+        "usage": "div",
+        "frequency": 821
+      },
+      {
+        "hex": "#575757",
+        "usage": "button",
+        "frequency": 366
+      },
+      {
+        "hex": "#212121",
+        "usage": "div",
+        "frequency": 324
+      },
+      {
+        "hex": "oklch(0.21 0.034 264.665)",
+        "usage": "a",
+        "frequency": 102
+      },
+      {
+        "hex": "#e0dacf",
+        "usage": "div",
+        "frequency": 32
+      },
+      {
+        "hex": "#9c0f0f",
+        "usage": "button",
+        "frequency": 18
+      },
+      {
+        "hex": "#ece9e2",
+        "usage": "body",
+        "frequency": 17
+      },
+      {
+        "hex": "#cdcdcd",
+        "usage": "div",
+        "frequency": 11
+      },
+      {
+        "hex": "oklab(0.247757 0.0000112653 0.00000496209 / 0.5)",
+        "usage": "div",
+        "frequency": 7
+      },
+      {
+        "hex": "#e0e2dc",
+        "usage": "div",
+        "frequency": 5
+      },
+      {
+        "hex": "rgba(0, 0, 0, 0.15)",
+        "usage": "div",
+        "frequency": 4
+      },
+      {
+        "hex": "oklch(0.439 0 0)",
+        "usage": "div",
+        "frequency": 3
+      },
+      {
+        "hex": "oklab(0.247757 0.0000112653 0.00000496209 / 0.3)",
+        "usage": "div",
+        "frequency": 2
+      },
+      {
+        "hex": "#f5f4f1",
+        "usage": "div",
+        "frequency": 2
+      },
+      {
+        "hex": "#242729",
+        "usage": "div",
+        "frequency": 2
+      },
+      {
+        "hex": "#879aab",
+        "usage": "div",
+        "frequency": 2
+      },
+      {
+        "hex": "#d1b0a4",
+        "usage": "div",
+        "frequency": 2
+      },
+      {
+        "hex": "#a57e75",
+        "usage": "label",
+        "frequency": 2
+      },
+      {
+        "hex": "#0563c1",
+        "usage": "span",
+        "frequency": 2
+      },
+      {
+        "hex": "#8b8a8f",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "#263144",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "#7c95a8",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "oklab(0.999994 0.0000455678 0.0000200868 / 0.2)",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "#232d3b",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "#9e6154",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "#837e6b",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "#8e9d9e",
+        "usage": "label",
+        "frequency": 1
+      },
+      {
+        "hex": "#9e8949",
+        "usage": "label",
+        "frequency": 1
+      },
+      {
+        "hex": "#a8a2a7",
+        "usage": "label",
+        "frequency": 1
+      },
+      {
+        "hex": "oklch(0.556 0 0)",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "oklch(0.928 0.006 264.531)",
+        "usage": "hr",
+        "frequency": 1
+      },
+      {
+        "hex": "#222519",
+        "usage": "button",
+        "frequency": 1
+      },
+      {
+        "hex": "#6a6767",
+        "usage": "button",
+        "frequency": 1
+      }
+    ],
+    "typography": [
+      {
+        "fontFamily": "Geograph",
+        "fontSize": "12px",
+        "element": "p"
+      },
+      {
+        "fontFamily": "Geograph",
+        "fontSize": "16px",
+        "element": "button"
+      },
+      {
+        "fontFamily": "Geograph",
+        "fontSize": "14px",
+        "element": "button"
+      },
+      {
+        "fontFamily": "Geograph",
+        "fontSize": "20px",
+        "element": "p"
+      },
+      {
+        "fontFamily": "Geograph",
+        "fontSize": "24px",
+        "element": "h2"
+      },
+      {
+        "fontFamily": "Akkurat Mono",
+        "fontSize": "12px",
+        "element": "h3"
+      },
+      {
+        "fontFamily": "Self Modern",
+        "fontSize": "40px",
+        "element": "h2"
+      },
+      {
+        "fontFamily": "Akkurat Mono",
+        "fontSize": "16px",
+        "element": "button"
+      },
+      {
+        "fontFamily": "Geograph",
+        "fontSize": "18px",
+        "element": "button"
+      },
+      {
+        "fontFamily": "Geograph",
+        "fontSize": "40px",
+        "element": "h2"
+      },
+      {
+        "fontFamily": "Geograph",
+        "fontSize": "30px",
+        "element": "h1"
+      },
+      {
+        "fontFamily": "Geograph",
+        "fontSize": "17.9999px",
+        "element": "h3"
+      },
+      {
+        "fontFamily": "HurmeGeometricSans3-Regular",
+        "fontSize": "14px",
+        "element": "button"
+      }
+    ],
+    "spacing": [
+      {
+        "value": "16px",
+        "frequency": 271
+      },
+      {
+        "value": "8px",
+        "frequency": 155
+      },
+      {
+        "value": "4px",
+        "frequency": 99
+      },
+      {
+        "value": "24px",
+        "frequency": 22
+      },
+      {
+        "value": "28px",
+        "frequency": 15
+      },
+      {
+        "value": "72px",
+        "frequency": 13
+      },
+      {
+        "value": "10px",
+        "frequency": 9
+      },
+      {
+        "value": "20px",
+        "frequency": 9
+      },
+      {
+        "value": "32px",
+        "frequency": 7
+      },
+      {
+        "value": "12px",
+        "frequency": 6
+      },
+      {
+        "value": "40px",
+        "frequency": 5
+      },
+      {
+        "value": "36px",
+        "frequency": 3
+      },
+      {
+        "value": "80px",
+        "frequency": 3
+      },
+      {
+        "value": "6px",
+        "frequency": 2
+      },
+      {
+        "value": "168px",
+        "frequency": 2
+      },
+      {
+        "value": "188px",
+        "frequency": 2
+      },
+      {
+        "value": "112px",
+        "frequency": 1
+      },
+      {
+        "value": "56px",
+        "frequency": 1
+      },
+      {
+        "value": "68px",
+        "frequency": 1
+      },
+      {
+        "value": "48px",
+        "frequency": 1
+      }
+    ]
+  },
+  "components": [
+    {
+      "type": "button",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "button",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "input",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "input",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "navbar",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "navbar",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "hero",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "hero",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "metadata": {
+    "url": "https://fluent2.microsoft.design",
+    "extractedAt": "2026-04-16T10:50:40.905Z",
+    "name": "Microsoft Fluent"
+  },
+  "tokens": {
+    "colors": [
+      {
+        "hex": "#000000",
+        "usage": "html",
+        "frequency": 626
+      },
+      {
+        "hex": "#242424",
+        "usage": "p",
+        "frequency": 282
+      },
+      {
+        "hex": "#484644",
+        "usage": "a",
+        "frequency": 280
+      },
+      {
+        "hex": "#616161",
+        "usage": "div",
+        "frequency": 196
+      },
+      {
+        "hex": "#0000ee",
+        "usage": "a",
+        "frequency": 114
+      },
+      {
+        "hex": "#ebebeb",
+        "usage": "div",
+        "frequency": 78
+      },
+      {
+        "hex": "#1b1a19",
+        "usage": "button",
+        "frequency": 36
+      },
+      {
+        "hex": "#ffffff",
+        "usage": "body",
+        "frequency": 24
+      },
+      {
+        "hex": "#424242",
+        "usage": "a",
+        "frequency": 16
+      },
+      {
+        "hex": "#af4e63",
+        "usage": "div",
+        "frequency": 15
+      },
+      {
+        "hex": "#444444",
+        "usage": "li",
+        "frequency": 12
+      },
+      {
+        "hex": "#4d4d4d",
+        "usage": "button",
+        "frequency": 8
+      },
+      {
+        "hex": "#d1d1d1",
+        "usage": "ul",
+        "frequency": 5
+      },
+      {
+        "hex": "#d13438",
+        "usage": "span",
+        "frequency": 4
+      },
+      {
+        "hex": "#0f6cbd",
+        "usage": "span",
+        "frequency": 4
+      },
+      {
+        "hex": "#f5f5f5",
+        "usage": "div",
+        "frequency": 3
+      },
+      {
+        "hex": "rgba(97, 97, 97, 0.37)",
+        "usage": "span",
+        "frequency": 2
+      },
+      {
+        "hex": "#0c0c0c",
+        "usage": "i",
+        "frequency": 2
+      },
+      {
+        "hex": "#f0f0f0",
+        "usage": "div",
+        "frequency": 2
+      },
+      {
+        "hex": "#767676",
+        "usage": "input",
+        "frequency": 2
+      },
+      {
+        "hex": "#808080",
+        "usage": "hr",
+        "frequency": 2
+      },
+      {
+        "hex": "rgba(255, 255, 255, 0.8)",
+        "usage": "ul",
+        "frequency": 1
+      },
+      {
+        "hex": "#eeebf0",
+        "usage": "section",
+        "frequency": 1
+      },
+      {
+        "hex": "#bdbdbd",
+        "usage": "button",
+        "frequency": 1
+      },
+      {
+        "hex": "#b4d6fa",
+        "usage": "span",
+        "frequency": 1
+      }
+    ],
+    "typography": [
+      {
+        "fontFamily": "Segoe UI",
+        "fontSize": "14px",
+        "element": "button"
+      },
+      {
+        "fontFamily": "Segoe UI",
+        "fontSize": "18px",
+        "element": "button"
+      },
+      {
+        "fontFamily": "Segoe UI",
+        "fontSize": "16px",
+        "element": "p"
+      },
+      {
+        "fontFamily": "Segoe UI",
+        "fontSize": "40px",
+        "element": "h1"
+      },
+      {
+        "fontFamily": "Segoe UI",
+        "fontSize": "24px",
+        "element": "h2"
+      },
+      {
+        "fontFamily": "Segoe UI",
+        "fontSize": "128px",
+        "element": "a"
+      },
+      {
+        "fontFamily": "Segoe UI",
+        "fontSize": "12px",
+        "element": "button"
+      }
+    ],
+    "spacing": [
+      {
+        "value": "3px",
+        "frequency": 82
+      },
+      {
+        "value": "6px",
+        "frequency": 82
+      },
+      {
+        "value": "2px",
+        "frequency": 22
+      },
+      {
+        "value": "8px",
+        "frequency": 14
+      },
+      {
+        "value": "4px",
+        "frequency": 7
+      },
+      {
+        "value": "5px",
+        "frequency": 5
+      },
+      {
+        "value": "22px",
+        "frequency": 4
+      },
+      {
+        "value": "20px",
+        "frequency": 3
+      },
+      {
+        "value": "32px",
+        "frequency": 3
+      },
+      {
+        "value": "1px",
+        "frequency": 2
+      },
+      {
+        "value": "10px",
+        "frequency": 2
+      },
+      {
+        "value": "120px",
+        "frequency": 1
+      },
+      {
+        "value": "60px",
+        "frequency": 1
+      },
+      {
+        "value": "40px",
+        "frequency": 1
+      },
+      {
+        "value": "24px",
+        "frequency": 1
+      }
+    ]
+  },
+  "components": [
+    {
+      "type": "button",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px",
+        "borderRadius": "2px"
+      }
+    },
+    {
+      "type": "button",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "5px 6px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "card",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "card",
+      "styles": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "color": "rgb(0, 0, 238)",
+        "padding": "32px",
+        "borderRadius": "22px"
+      }
+    },
+    {
+      "type": "input",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "input",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(36, 36, 36)",
+        "padding": "0px 0px 0px 12px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "navbar",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "20px 0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "navbar",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px 32px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "hero",
+      "styles": {
+        "backgroundColor": "rgb(238, 235, 240)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px 0px 160px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "hero",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    }
+  ]
+}

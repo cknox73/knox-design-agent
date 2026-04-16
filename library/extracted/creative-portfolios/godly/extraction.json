@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "url": "https://godly.website",
+    "extractedAt": "2026-04-16T10:55:43.792Z",
+    "name": "Godly"
+  },
+  "tokens": {
+    "colors": [
+      {
+        "hex": "#ffffff",
+        "usage": "body",
+        "frequency": 2244
+      },
+      {
+        "hex": "#000000",
+        "usage": "html",
+        "frequency": 1905
+      },
+      {
+        "hex": "oklab(0.439 0 0 / 0.3)",
+        "usage": "div",
+        "frequency": 417
+      },
+      {
+        "hex": "oklab(0 0 0 / 0.05)",
+        "usage": "div",
+        "frequency": 142
+      },
+      {
+        "hex": "oklab(0 0 0 / 0.1)",
+        "usage": "div",
+        "frequency": 138
+      },
+      {
+        "hex": "oklch(0.556 0 0)",
+        "usage": "a",
+        "frequency": 8
+      },
+      {
+        "hex": "oklab(0.708 0 0 / 0.8)",
+        "usage": "a",
+        "frequency": 4
+      },
+      {
+        "hex": "oklch(0.97 0 0)",
+        "usage": "a",
+        "frequency": 1
+      },
+      {
+        "hex": "oklab(0.999994 0.0000455678 0.0000200868 / 0.16)",
+        "usage": "span",
+        "frequency": 1
+      },
+      {
+        "hex": "oklab(0.999994 0.0000455678 0.0000200868 / 0.32)",
+        "usage": "span",
+        "frequency": 1
+      }
+    ],
+    "typography": [
+      {
+        "fontFamily": "Inter",
+        "fontSize": "16px",
+        "element": "a"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": "24px",
+        "element": "a"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": "20px",
+        "element": "h1"
+      },
+      {
+        "fontFamily": "Inter",
+        "fontSize": "14px",
+        "element": "p"
+      }
+    ],
+    "spacing": [
+      {
+        "value": "6px",
+        "frequency": 2
+      }
+    ]
+  },
+  "components": [
+    {
+      "type": "button",
+      "styles": {
+        "backgroundColor": "oklab(0.708 0 0 / 0.8)",
+        "color": "rgb(255, 255, 255)",
+        "padding": "6px 12px 6px 16px",
+        "borderRadius": "3.35544e+07px"
+      }
+    },
+    {
+      "type": "button",
+      "styles": {
+        "backgroundColor": "rgb(0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "padding": "0px 12px 0px 16px",
+        "borderRadius": "3.35544e+07px"
+      }
+    },
+    {
+      "type": "navbar",
+      "styles": {
+        "backgroundColor": "oklab(0.708 0 0 / 0.8)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "6px 16px",
+        "borderRadius": "3.35544e+07px"
+      }
+    }
+  ]
+}

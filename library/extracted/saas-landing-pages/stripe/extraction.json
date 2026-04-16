@@ -1,0 +1,419 @@
+{
+  "metadata": {
+    "url": "https://stripe.com",
+    "extractedAt": "2026-04-16T10:51:56.453Z",
+    "name": "Stripe"
+  },
+  "tokens": {
+    "colors": [
+      {
+        "hex": "#000000",
+        "usage": "html",
+        "frequency": 2571
+      },
+      {
+        "hex": "#533afd",
+        "usage": "a",
+        "frequency": 953
+      },
+      {
+        "hex": "#50617a",
+        "usage": "div",
+        "frequency": 316
+      },
+      {
+        "hex": "#061b31",
+        "usage": "button",
+        "frequency": 309
+      },
+      {
+        "hex": "#ffffff",
+        "usage": "a",
+        "frequency": 176
+      },
+      {
+        "hex": "#64748d",
+        "usage": "span",
+        "frequency": 172
+      },
+      {
+        "hex": "#0000ee",
+        "usage": "a",
+        "frequency": 90
+      },
+      {
+        "hex": "#e5edf5",
+        "usage": "div",
+        "frequency": 43
+      },
+      {
+        "hex": "#7f7dfc",
+        "usage": "svg",
+        "frequency": 37
+      },
+      {
+        "hex": "#3c4f69",
+        "usage": "div",
+        "frequency": 36
+      },
+      {
+        "hex": "#273951",
+        "usage": "div",
+        "frequency": 32
+      },
+      {
+        "hex": "#7389ff",
+        "usage": "a",
+        "frequency": 30
+      },
+      {
+        "hex": "#1a2c44",
+        "usage": "div",
+        "frequency": 28
+      },
+      {
+        "hex": "#ff6118",
+        "usage": "div",
+        "frequency": 28
+      },
+      {
+        "hex": "rgba(255, 255, 255, 0)",
+        "usage": "a",
+        "frequency": 25
+      },
+      {
+        "hex": "#b9b9f9",
+        "usage": "a",
+        "frequency": 22
+      },
+      {
+        "hex": "#7d8ba4",
+        "usage": "p",
+        "frequency": 14
+      },
+      {
+        "hex": "#d6d9fc",
+        "usage": "a",
+        "frequency": 10
+      },
+      {
+        "hex": "#5a6677",
+        "usage": "div",
+        "frequency": 10
+      },
+      {
+        "hex": "#f8fafd",
+        "usage": "div",
+        "frequency": 9
+      },
+      {
+        "hex": "#839bc8",
+        "usage": "p",
+        "frequency": 8
+      },
+      {
+        "hex": "#e2e4ff",
+        "usage": "a",
+        "frequency": 6
+      },
+      {
+        "hex": "rgba(16, 16, 16, 0.3)",
+        "usage": "button",
+        "frequency": 6
+      },
+      {
+        "hex": "#a3b5d6",
+        "usage": "p",
+        "frequency": 6
+      },
+      {
+        "hex": "#e8e9ff",
+        "usage": "button",
+        "frequency": 4
+      },
+      {
+        "hex": "#81b81a",
+        "usage": "h1",
+        "frequency": 4
+      },
+      {
+        "hex": "rgba(0, 14, 255, 0.5)",
+        "usage": "h1",
+        "frequency": 4
+      },
+      {
+        "hex": "#e3ecf7",
+        "usage": "h4",
+        "frequency": 3
+      },
+      {
+        "hex": "#2d2564",
+        "usage": "em",
+        "frequency": 2
+      },
+      {
+        "hex": "#ffe0d1",
+        "usage": "div",
+        "frequency": 2
+      },
+      {
+        "hex": "#635bff",
+        "usage": "button",
+        "frequency": 2
+      },
+      {
+        "hex": "rgba(0, 0, 0, 0.12)",
+        "usage": "button",
+        "frequency": 2
+      },
+      {
+        "hex": "rgba(255, 255, 255, 0.8)",
+        "usage": "section",
+        "frequency": 1
+      },
+      {
+        "hex": "rgba(255, 255, 255, 0.65)",
+        "usage": "a",
+        "frequency": 1
+      },
+      {
+        "hex": "rgba(248, 250, 253, 0.45)",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "rgba(255, 255, 255, 0.38)",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "#00d66f",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "#0d1738",
+        "usage": "section",
+        "frequency": 1
+      },
+      {
+        "hex": "rgba(83, 58, 253, 0.698)",
+        "usage": "a",
+        "frequency": 1
+      },
+      {
+        "hex": "#182659",
+        "usage": "span",
+        "frequency": 1
+      },
+      {
+        "hex": "#322d27",
+        "usage": "div",
+        "frequency": 1
+      }
+    ],
+    "typography": [
+      {
+        "fontFamily": "sohne-var",
+        "fontSize": "16px",
+        "element": "a"
+      },
+      {
+        "fontFamily": "sohne-var",
+        "fontSize": "14px",
+        "element": "button"
+      },
+      {
+        "fontFamily": "sohne-var",
+        "fontSize": "48px",
+        "element": "h1"
+      },
+      {
+        "fontFamily": "sohne-var",
+        "fontSize": "32px",
+        "element": "h2"
+      },
+      {
+        "fontFamily": "sohne-var",
+        "fontSize": "26px",
+        "element": "h3"
+      },
+      {
+        "fontFamily": "sohne-var",
+        "fontSize": "18px",
+        "element": "p"
+      },
+      {
+        "fontFamily": "sohne-var",
+        "fontSize": "56px",
+        "element": "h2"
+      },
+      {
+        "fontFamily": "sohne-var",
+        "fontSize": "22px",
+        "element": "h3"
+      },
+      {
+        "fontFamily": "sohne-var",
+        "fontSize": "12px",
+        "element": "p"
+      }
+    ],
+    "spacing": [
+      {
+        "value": "2px",
+        "frequency": 42
+      },
+      {
+        "value": "14px",
+        "frequency": 27
+      },
+      {
+        "value": "6px",
+        "frequency": 15
+      },
+      {
+        "value": "11px",
+        "frequency": 10
+      },
+      {
+        "value": "10px",
+        "frequency": 9
+      },
+      {
+        "value": "16px",
+        "frequency": 9
+      },
+      {
+        "value": "15px",
+        "frequency": 9
+      },
+      {
+        "value": "12px",
+        "frequency": 7
+      },
+      {
+        "value": "24px",
+        "frequency": 7
+      },
+      {
+        "value": "32px",
+        "frequency": 7
+      },
+      {
+        "value": "96px",
+        "frequency": 5
+      },
+      {
+        "value": "1px",
+        "frequency": 5
+      },
+      {
+        "value": "40px",
+        "frequency": 5
+      },
+      {
+        "value": "4px",
+        "frequency": 4
+      },
+      {
+        "value": "64px",
+        "frequency": 4
+      },
+      {
+        "value": "8px",
+        "frequency": 3
+      },
+      {
+        "value": "9px",
+        "frequency": 3
+      },
+      {
+        "value": "80px",
+        "frequency": 3
+      },
+      {
+        "value": "5px",
+        "frequency": 3
+      },
+      {
+        "value": "36px",
+        "frequency": 2
+      }
+    ]
+  },
+  "components": [
+    {
+      "type": "button",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(6, 27, 49)",
+        "padding": "12px 0px",
+        "borderRadius": "4px"
+      }
+    },
+    {
+      "type": "button",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(6, 27, 49)",
+        "padding": "12px 0px",
+        "borderRadius": "4px"
+      }
+    },
+    {
+      "type": "card",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "card",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "navbar",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "navbar",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "10px 16px",
+        "borderRadius": "6px"
+      }
+    },
+    {
+      "type": "hero",
+      "styles": {
+        "backgroundColor": "rgba(255, 255, 255, 0.8)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "16px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "hero",
+      "styles": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px 16px",
+        "borderRadius": "0px"
+      }
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "metadata": {
+    "url": "https://primer.style",
+    "extractedAt": "2026-04-16T10:51:10.060Z",
+    "name": "GitHub Primer"
+  },
+  "tokens": {
+    "colors": [
+      {
+        "hex": "#000000",
+        "usage": "html",
+        "frequency": 234
+      },
+      {
+        "hex": "#1f2328",
+        "usage": "div",
+        "frequency": 96
+      },
+      {
+        "hex": "#005dd5",
+        "usage": "a",
+        "frequency": 80
+      },
+      {
+        "hex": "#77827a",
+        "usage": "div",
+        "frequency": 20
+      },
+      {
+        "hex": "#59636e",
+        "usage": "a",
+        "frequency": 19
+      },
+      {
+        "hex": "#ffffff",
+        "usage": "html",
+        "frequency": 17
+      },
+      {
+        "hex": "#58635b",
+        "usage": "h2",
+        "frequency": 16
+      },
+      {
+        "hex": "#25292e",
+        "usage": "span",
+        "frequency": 7
+      },
+      {
+        "hex": "#0969da",
+        "usage": "a",
+        "frequency": 6
+      },
+      {
+        "hex": "#f6f8fa",
+        "usage": "button",
+        "frequency": 4
+      },
+      {
+        "hex": "#d1d9e0",
+        "usage": "button",
+        "frequency": 3
+      },
+      {
+        "hex": "#f2f5f3",
+        "usage": "div",
+        "frequency": 3
+      },
+      {
+        "hex": "#0377ff",
+        "usage": "a",
+        "frequency": 1
+      }
+    ],
+    "typography": [
+      {
+        "fontFamily": "Mona Sans",
+        "fontSize": "16px",
+        "element": "a"
+      },
+      {
+        "fontFamily": "Mona Sans VF",
+        "fontSize": "14px",
+        "element": "button"
+      },
+      {
+        "fontFamily": "Mona Sans",
+        "fontSize": "56px",
+        "element": "h1"
+      },
+      {
+        "fontFamily": "Mona Sans",
+        "fontSize": "34px",
+        "element": "h2"
+      },
+      {
+        "fontFamily": "Mona Sans VF",
+        "fontSize": "16px",
+        "element": "a"
+      },
+      {
+        "fontFamily": "Mona Sans",
+        "fontSize": "28px",
+        "element": "h2"
+      },
+      {
+        "fontFamily": "Mona Sans",
+        "fontSize": "20px",
+        "element": "h3"
+      },
+      {
+        "fontFamily": "Mona Sans",
+        "fontSize": "22px",
+        "element": "h3"
+      }
+    ],
+    "spacing": [
+      {
+        "value": "32px",
+        "frequency": 5
+      },
+      {
+        "value": "56px",
+        "frequency": 3
+      },
+      {
+        "value": "12px",
+        "frequency": 3
+      },
+      {
+        "value": "4px",
+        "frequency": 2
+      },
+      {
+        "value": "16px",
+        "frequency": 1
+      },
+      {
+        "value": "96px",
+        "frequency": 1
+      },
+      {
+        "value": "91px",
+        "frequency": 1
+      },
+      {
+        "value": "88px",
+        "frequency": 1
+      }
+    ]
+  },
+  "components": [
+    {
+      "type": "button",
+      "styles": {
+        "backgroundColor": "rgb(246, 248, 250)",
+        "color": "rgb(89, 99, 110)",
+        "padding": "0px",
+        "borderRadius": "6px"
+      }
+    },
+    {
+      "type": "button",
+      "styles": {
+        "backgroundColor": "rgb(246, 248, 250)",
+        "color": "rgb(37, 41, 46)",
+        "padding": "0px 12px",
+        "borderRadius": "6px"
+      }
+    },
+    {
+      "type": "card",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(31, 35, 40)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "card",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(31, 35, 40)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "navbar",
+      "styles": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "color": "rgb(31, 35, 40)",
+        "padding": "16px 24px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "navbar",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(31, 35, 40)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "hero",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(31, 35, 40)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    }
+  ]
+}

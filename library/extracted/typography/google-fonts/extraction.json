@@ -1,0 +1,197 @@
+{
+  "metadata": {
+    "url": "https://fonts.google.com",
+    "extractedAt": "2026-04-16T10:56:04.003Z",
+    "name": "Google Fonts"
+  },
+  "tokens": {
+    "colors": [
+      {
+        "hex": "#1f1f1f",
+        "usage": "mat-sidenav-container",
+        "frequency": 1253
+      },
+      {
+        "hex": "#444746",
+        "usage": "a",
+        "frequency": 1000
+      },
+      {
+        "hex": "#00639b",
+        "usage": "a",
+        "frequency": 418
+      },
+      {
+        "hex": "#000000",
+        "usage": "html",
+        "frequency": 254
+      },
+      {
+        "hex": "#0b57d0",
+        "usage": "a",
+        "frequency": 218
+      },
+      {
+        "hex": "#e9eef6",
+        "usage": "textarea",
+        "frequency": 142
+      },
+      {
+        "hex": "#c2e7ff",
+        "usage": "span",
+        "frequency": 51
+      },
+      {
+        "hex": "#ffffff",
+        "usage": "a",
+        "frequency": 43
+      },
+      {
+        "hex": "#004a77",
+        "usage": "gf-icon",
+        "frequency": 24
+      },
+      {
+        "hex": "color(srgb 0.121569 0.121569 0.121569 / 0.38)",
+        "usage": "button",
+        "frequency": 18
+      },
+      {
+        "hex": "#c4c7c5",
+        "usage": "mat-divider",
+        "frequency": 14
+      },
+      {
+        "hex": "#f8fafd",
+        "usage": "mat-sidenav",
+        "frequency": 7
+      },
+      {
+        "hex": "#101010",
+        "usage": "input",
+        "frequency": 4
+      },
+      {
+        "hex": "#f0f4f9",
+        "usage": "gf-nav-rail",
+        "frequency": 1
+      },
+      {
+        "hex": "color(srgb 0.411765 0.568627 0.839216 / 0.08)",
+        "usage": "gf-toolbar-row",
+        "frequency": 1
+      }
+    ],
+    "typography": [
+      {
+        "fontFamily": "Google Sans Flex",
+        "fontSize": "14px",
+        "element": "a"
+      },
+      {
+        "fontFamily": "Google Sans Flex",
+        "fontSize": "16px",
+        "element": "a"
+      },
+      {
+        "fontFamily": "Google Sans Flex",
+        "fontSize": "24px",
+        "element": "button"
+      },
+      {
+        "fontFamily": "Google Sans Flex",
+        "fontSize": "13.3333px",
+        "element": "button"
+      }
+    ],
+    "spacing": [
+      {
+        "value": "4px",
+        "frequency": 143
+      },
+      {
+        "value": "8px",
+        "frequency": 68
+      },
+      {
+        "value": "24px",
+        "frequency": 21
+      },
+      {
+        "value": "12px",
+        "frequency": 9
+      },
+      {
+        "value": "20px",
+        "frequency": 4
+      },
+      {
+        "value": "16px",
+        "frequency": 4
+      },
+      {
+        "value": "10px",
+        "frequency": 1
+      },
+      {
+        "value": "32px",
+        "frequency": 1
+      },
+      {
+        "value": "5px",
+        "frequency": 1
+      },
+      {
+        "value": "72px",
+        "frequency": 1
+      }
+    ]
+  },
+  "components": [
+    {
+      "type": "button",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(68, 71, 70)",
+        "padding": "10px",
+        "borderRadius": "9999px"
+      }
+    },
+    {
+      "type": "button",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "color(srgb 0.121569 0.121569 0.121569 / 0.38)",
+        "padding": "0px 16px",
+        "borderRadius": "9999px"
+      }
+    },
+    {
+      "type": "input",
+      "styles": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "color": "rgb(16, 16, 16)",
+        "padding": "0px 16px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "input",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(68, 71, 70)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "navbar",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(31, 31, 31)",
+        "padding": "0px 60px",
+        "borderRadius": "0px"
+      }
+    }
+  ]
+}

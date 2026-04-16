@@ -1,0 +1,334 @@
+{
+  "metadata": {
+    "url": "https://www.awwwards.com",
+    "extractedAt": "2026-04-16T10:55:21.046Z",
+    "name": "Awwwards"
+  },
+  "tokens": {
+    "colors": [
+      {
+        "hex": "#222222",
+        "usage": "body",
+        "frequency": 2336
+      },
+      {
+        "hex": "#ffffff",
+        "usage": "span",
+        "frequency": 613
+      },
+      {
+        "hex": "#000000",
+        "usage": "html",
+        "frequency": 81
+      },
+      {
+        "hex": "#dedede",
+        "usage": "div",
+        "frequency": 26
+      },
+      {
+        "hex": "#ededed",
+        "usage": "div",
+        "frequency": 13
+      },
+      {
+        "hex": "#f8f8f8",
+        "usage": "body",
+        "frequency": 12
+      },
+      {
+        "hex": "#a7a7a7",
+        "usage": "div",
+        "frequency": 12
+      },
+      {
+        "hex": "rgba(255, 255, 255, 0.9)",
+        "usage": "div",
+        "frequency": 8
+      },
+      {
+        "hex": "rgba(255, 255, 255, 0.2)",
+        "usage": "span",
+        "frequency": 8
+      },
+      {
+        "hex": "#808080",
+        "usage": "table",
+        "frequency": 8
+      },
+      {
+        "hex": "#4e4e4e",
+        "usage": "a",
+        "frequency": 5
+      },
+      {
+        "hex": "#e9e9e9",
+        "usage": "div",
+        "frequency": 4
+      },
+      {
+        "hex": "#fff083",
+        "usage": "div",
+        "frequency": 4
+      },
+      {
+        "hex": "rgba(255, 255, 255, 0.3)",
+        "usage": "div",
+        "frequency": 3
+      },
+      {
+        "hex": "rgba(0, 0, 0, 0.7)",
+        "usage": "div",
+        "frequency": 2
+      },
+      {
+        "hex": "#fa5d29",
+        "usage": "span",
+        "frequency": 2
+      },
+      {
+        "hex": "#2c2c2c",
+        "usage": "div",
+        "frequency": 2
+      },
+      {
+        "hex": "rgba(34, 34, 34, 0.3)",
+        "usage": "strong",
+        "frequency": 1
+      },
+      {
+        "hex": "rgba(34, 34, 34, 0.8)",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "#3e3e3e",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "rgba(78, 78, 78, 0.5)",
+        "usage": "div",
+        "frequency": 1
+      },
+      {
+        "hex": "#c1c1c1",
+        "usage": "textarea",
+        "frequency": 1
+      }
+    ],
+    "typography": [
+      {
+        "fontFamily": "Inter Tight",
+        "fontSize": "14px",
+        "element": "a"
+      },
+      {
+        "fontFamily": "Inter Tight",
+        "fontSize": "126.732px",
+        "element": "h3"
+      },
+      {
+        "fontFamily": "Inter Tight",
+        "fontSize": "19.3239px",
+        "element": "a"
+      },
+      {
+        "fontFamily": "Inter Tight",
+        "fontSize": "20.6479px",
+        "element": "a"
+      },
+      {
+        "fontFamily": "Inter Tight",
+        "fontSize": "16px",
+        "element": "a"
+      },
+      {
+        "fontFamily": "Inter Tight",
+        "fontSize": "41.8873px",
+        "element": "h3"
+      },
+      {
+        "fontFamily": "Inter Tight",
+        "fontSize": "15px",
+        "element": "a"
+      },
+      {
+        "fontFamily": "Inter Tight",
+        "fontSize": "24px",
+        "element": "h3"
+      },
+      {
+        "fontFamily": "Inter Tight",
+        "fontSize": "22px",
+        "element": "a"
+      },
+      {
+        "fontFamily": "Inter Tight",
+        "fontSize": "18px",
+        "element": "a"
+      },
+      {
+        "fontFamily": "Inter Tight",
+        "fontSize": "13px",
+        "element": "a"
+      }
+    ],
+    "spacing": [
+      {
+        "value": "28px",
+        "frequency": 26
+      },
+      {
+        "value": "30px",
+        "frequency": 18
+      },
+      {
+        "value": "8px",
+        "frequency": 17
+      },
+      {
+        "value": "43px",
+        "frequency": 14
+      },
+      {
+        "value": "2px",
+        "frequency": 13
+      },
+      {
+        "value": "33px",
+        "frequency": 11
+      },
+      {
+        "value": "24px",
+        "frequency": 11
+      },
+      {
+        "value": "32px",
+        "frequency": 8
+      },
+      {
+        "value": "20px",
+        "frequency": 8
+      },
+      {
+        "value": "72px",
+        "frequency": 7
+      },
+      {
+        "value": "16px",
+        "frequency": 5
+      },
+      {
+        "value": "60px",
+        "frequency": 4
+      },
+      {
+        "value": "14px",
+        "frequency": 3
+      },
+      {
+        "value": "9px",
+        "frequency": 3
+      },
+      {
+        "value": "36px",
+        "frequency": 3
+      },
+      {
+        "value": "57px",
+        "frequency": 2
+      },
+      {
+        "value": "86px",
+        "frequency": 2
+      },
+      {
+        "value": "4px",
+        "frequency": 2
+      },
+      {
+        "value": "50px",
+        "frequency": 2
+      },
+      {
+        "value": "71px",
+        "frequency": 1
+      }
+    ]
+  },
+  "components": [
+    {
+      "type": "button",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "card",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(34, 34, 34)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "card",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(34, 34, 34)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "input",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(34, 34, 34)",
+        "padding": "0px 0px 0px 38px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "input",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "navbar",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(34, 34, 34)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "navbar",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(34, 34, 34)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "hero",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(34, 34, 34)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "description": "World-class design systems and websites for Knox Design Agent extraction",
+  "categories": {
+    "design-systems": [
+      {
+        "name": "Apple",
+        "url": "https://www.apple.com",
+        "why": "Industry-leading minimalism, typography, product photography"
+      },
+      {
+        "name": "Google Material",
+        "url": "https://m3.material.io",
+        "why": "Comprehensive design system documentation"
+      },
+      {
+        "name": "Microsoft Fluent",
+        "url": "https://fluent2.microsoft.design",
+        "why": "Enterprise-grade system with accessibility focus"
+      },
+      {
+        "name": "IBM Carbon",
+        "url": "https://carbondesignsystem.com",
+        "why": "Open source, data visualization excellence"
+      },
+      {
+        "name": "Shopify Polaris",
+        "url": "https://polaris.shopify.com",
+        "why": "E-commerce focused, practical patterns"
+      },
+      {
+        "name": "Adobe Spectrum",
+        "url": "https://spectrum.adobe.com",
+        "why": "Creative tools, complex UI patterns"
+      },
+      {
+        "name": "GitHub Primer",
+        "url": "https://primer.style",
+        "why": "Developer-focused, dark mode excellence"
+      },
+      {
+        "name": "Figma",
+        "url": "https://www.figma.com",
+        "why": "Design tool UI, collaborative features"
+      }
+    ],
+    "saas-landing-pages": [
+      {
+        "name": "Linear",
+        "url": "https://linear.app",
+        "why": "Modern SaaS aesthetic, animations"
+      },
+      {
+        "name": "Notion",
+        "url": "https://www.notion.so",
+        "why": "Clear value prop, feature showcase"
+      },
+      {
+        "name": "Vercel",
+        "url": "https://vercel.com",
+        "why": "Developer-focused, dark mode"
+      },
+      {
+        "name": "Stripe",
+        "url": "https://stripe.com",
+        "why": "Documentation excellence, developer UX"
+      },
+      {
+        "name": "Slack",
+        "url": "https://slack.com",
+        "why": "Enterprise messaging, feature clarity"
+      },
+      {
+        "name": "Linear",
+        "url": "https://linear.app",
+        "why": "Modern SaaS, animations, polish"
+      },
+      {
+        "name": "Raycast",
+        "url": "https://www.raycast.com",
+        "why": "Mac aesthetic, developer tools"
+      },
+      {
+        "name": "Framer",
+        "url": "https://www.framer.com",
+        "why": "Design tool marketing, interactivity"
+      }
+    ],
+    "e-commerce": [
+      {
+        "name": "Apple Store",
+        "url": "https://www.apple.com/store",
+        "why": "Premium product presentation"
+      },
+      {
+        "name": "Nike",
+        "url": "https://www.nike.com",
+        "why": "Brand storytelling, personalization"
+      },
+      {
+        "name": "Allbirds",
+        "url": "https://www.allbirds.com",
+        "why": "Sustainability messaging, simplicity"
+      },
+      {
+        "name": "Glossier",
+        "url": "https://www.glossier.com",
+        "why": "Beauty industry, minimal aesthetic"
+      }
+    ],
+    "creative-portfolios": [
+      {
+        "name": "Awwwards",
+        "url": "https://www.awwwards.com",
+        "why": "Award-winning designs, trends"
+      },
+      {
+        "name": "SiteInspire",
+        "url": "https://www.siteinspire.com",
+        "why": "Curated gallery, categorization"
+      },
+      {
+        "name": "Minimal Gallery",
+        "url": "https://minimal.gallery",
+        "why": "Minimalist designs"
+      },
+      {
+        "name": "Godly",
+        "url": "https://godly.website",
+        "why": "Premium website inspiration"
+      }
+    ],
+    "typography": [
+      {
+        "name": "Google Fonts",
+        "url": "https://fonts.google.com",
+        "why": "Font pairing, specimen design"
+      },
+      {
+        "name": "Fonts In Use",
+        "url": "https://fontsinuse.com",
+        "why": "Real-world typography examples"
+      }
+    ]
+  },
+  "extraction": {
+    "maxSites": 50,
+    "delayBetweenRequests": 2000,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  }
+}

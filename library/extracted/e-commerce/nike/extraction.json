@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "url": "https://www.nike.com",
+    "extractedAt": "2026-04-16T10:54:50.167Z",
+    "name": "Nike"
+  },
+  "tokens": {
+    "colors": [
+      {
+        "hex": "#111111",
+        "usage": "body",
+        "frequency": 3422
+      },
+      {
+        "hex": "#000000",
+        "usage": "html",
+        "frequency": 958
+      },
+      {
+        "hex": "#ffffff",
+        "usage": "body",
+        "frequency": 807
+      },
+      {
+        "hex": "#707072",
+        "usage": "p",
+        "frequency": 790
+      },
+      {
+        "hex": "#cacacb",
+        "usage": "a",
+        "frequency": 430
+      },
+      {
+        "hex": "#757575",
+        "usage": "svg",
+        "frequency": 80
+      },
+      {
+        "hex": "rgba(255, 255, 255, 0.7)",
+        "usage": "span",
+        "frequency": 46
+      },
+      {
+        "hex": "#b2b2b2",
+        "usage": "ul",
+        "frequency": 36
+      },
+      {
+        "hex": "#e5e5e5",
+        "usage": "div",
+        "frequency": 21
+      },
+      {
+        "hex": "#f5f5f5",
+        "usage": "div",
+        "frequency": 18
+      },
+      {
+        "hex": "#767676",
+        "usage": "select",
+        "frequency": 18
+      },
+      {
+        "hex": "rgba(17, 17, 17, 0.8)",
+        "usage": "div",
+        "frequency": 16
+      },
+      {
+        "hex": "#2b333f",
+        "usage": "button",
+        "frequency": 12
+      },
+      {
+        "hex": "#9e9ea0",
+        "usage": "button",
+        "frequency": 8
+      },
+      {
+        "hex": "#888888",
+        "usage": "span",
+        "frequency": 4
+      },
+      {
+        "hex": "rgba(17, 17, 17, 0.36)",
+        "usage": "div",
+        "frequency": 2
+      },
+      {
+        "hex": "rgba(255, 255, 255, 0.25)",
+        "usage": "div",
+        "frequency": 2
+      },
+      {
+        "hex": "rgba(0, 0, 0, 0.8)",
+        "usage": "div",
+        "frequency": 2
+      },
+      {
+        "hex": "rgba(255, 255, 255, 0.2)",
+        "usage": "div",
+        "frequency": 2
+      },
+      {
+        "hex": "rgba(255, 255, 255, 0.3)",
+        "usage": "div",
+        "frequency": 2
+      },
+      {
+        "hex": "rgba(43, 51, 63, 0.75)",
+        "usage": "div",
+        "frequency": 2
+      }
+    ],
+    "typography": [
+      {
+        "fontFamily": "Helvetica Now Text",
+        "fontSize": "16px",
+        "element": "h1"
+      },
+      {
+        "fontFamily": "Helvetica Now Display Medium",
+        "fontSize": "24px",
+        "element": "h3"
+      },
+      {
+        "fontFamily": "Helvetica Now Text Medium",
+        "fontSize": "16px",
+        "element": "h3"
+      },
+      {
+        "fontFamily": "Helvetica Now Text",
+        "fontSize": "14px",
+        "element": "p"
+      },
+      {
+        "fontFamily": "Helvetica Now Text Medium",
+        "fontSize": "14px",
+        "element": "a"
+      },
+      {
+        "fontFamily": "Helvetica Now Text Medium",
+        "fontSize": "12px",
+        "element": "p"
+      },
+      {
+        "fontFamily": "Helvetica Neue",
+        "fontSize": "9px",
+        "element": "p"
+      },
+      {
+        "fontFamily": "Nike Futura ND",
+        "fontSize": "76px",
+        "element": "h1"
+      },
+      {
+        "fontFamily": "Helvetica Now Text",
+        "fontSize": "20px",
+        "element": "p"
+      },
+      {
+        "fontFamily": "Arial",
+        "fontSize": "16px",
+        "element": "button"
+      },
+      {
+        "fontFamily": "Helvetica Neue",
+        "fontSize": "16px",
+        "element": "p"
+      },
+      {
+        "fontFamily": "Arial",
+        "fontSize": "19.2px",
+        "element": "button"
+      },
+      {
+        "fontFamily": "Arial",
+        "fontSize": "0px",
+        "element": "button"
+      },
+      {
+        "fontFamily": "Helvetica Now Display Medium",
+        "fontSize": "32px",
+        "element": "h2"
+      },
+      {
+        "fontFamily": "Helvetica Now Display Medium",
+        "fontSize": "20px",
+        "element": "h4"
+      },
+      {
+        "fontFamily": "Helvetica Now Text",
+        "fontSize": "12px",
+        "element": "p"
+      },
+      {
+        "fontFamily": "Neue Frutiger Arabic",
+        "fontSize": "20px",
+        "element": "h4"
+      },
+      {
+        "fontFamily": "Neue Frutiger Arabic",
+        "fontSize": "12px",
+        "element": "p"
+      }
+    ],
+    "spacing": [
+      {
+        "value": "12px",
+        "frequency": 104
+      },
+      {
+        "value": "6px",
+        "frequency": 82
+      },
+      {
+        "value": "8px",
+        "frequency": 37
+      },
+      {
+        "value": "36px",
+        "frequency": 34
+      },
+      {
+        "value": "18px",
+        "frequency": 18
+      },
+      {
+        "value": "5px",
+        "frequency": 13
+      },
+      {
+        "value": "3px",
+        "frequency": 12
+      },
+      {
+        "value": "16px",
+        "frequency": 10
+      },
+      {
+        "value": "24px",
+        "frequency": 7
+      },
+      {
+        "value": "48px",
+        "frequency": 5
+      },
+      {
+        "value": "7px",
+        "frequency": 5
+      },
+      {
+        "value": "4px",
+        "frequency": 4
+      },
+      {
+        "value": "20px",
+        "frequency": 4
+      },
+      {
+        "value": "30px",
+        "frequency": 4
+      },
+      {
+        "value": "1px",
+        "frequency": 1
+      },
+      {
+        "value": "21px",
+        "frequency": 1
+      },
+      {
+        "value": "9px",
+        "frequency": 1
+      },
+      {
+        "value": "2px",
+        "frequency": 1
+      }
+    ]
+  },
+  "components": [
+    {
+      "type": "button",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(17, 17, 17)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "button",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(17, 17, 17)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "card",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(17, 17, 17)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "card",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(17, 17, 17)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "input",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "input",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "navbar",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(17, 17, 17)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "navbar",
+      "styles": {
+        "backgroundColor": "rgb(255, 255, 255)",
+        "color": "rgb(17, 17, 17)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "hero",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(17, 17, 17)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "hero",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(17, 17, 17)",
+        "padding": "36px 0px 60px",
+        "borderRadius": "0px"
+      }
+    }
+  ]
+}

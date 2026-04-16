@@ -1,0 +1,221 @@
+{
+  "metadata": {
+    "url": "https://m3.material.io",
+    "extractedAt": "2026-04-16T10:50:32.119Z",
+    "name": "Google Material"
+  },
+  "tokens": {
+    "colors": [
+      {
+        "hex": "#1c1b1d",
+        "usage": "mio-landing-page",
+        "frequency": 422
+      },
+      {
+        "hex": "#000000",
+        "usage": "html",
+        "frequency": 122
+      },
+      {
+        "hex": "#4d4256",
+        "usage": "a",
+        "frequency": 100
+      },
+      {
+        "hex": "#1f1f1f",
+        "usage": "body",
+        "frequency": 54
+      },
+      {
+        "hex": "#6442d6",
+        "usage": "a",
+        "frequency": 51
+      },
+      {
+        "hex": "#f8f1f6",
+        "usage": "div",
+        "frequency": 17
+      },
+      {
+        "hex": "#dcdaf5",
+        "usage": "div",
+        "frequency": 12
+      },
+      {
+        "hex": "#f5eff1",
+        "usage": "video",
+        "frequency": 11
+      },
+      {
+        "hex": "#ffffff",
+        "usage": "button",
+        "frequency": 9
+      },
+      {
+        "hex": "#21182b",
+        "usage": "span",
+        "frequency": 4
+      },
+      {
+        "hex": "#f1d3f9",
+        "usage": "a",
+        "frequency": 2
+      },
+      {
+        "hex": "#9f86ff",
+        "usage": "a",
+        "frequency": 2
+      },
+      {
+        "hex": "#fefbff",
+        "usage": "mio-root",
+        "frequency": 1
+      },
+      {
+        "hex": "#f2ecee",
+        "usage": "mio-left-nav-rail",
+        "frequency": 1
+      },
+      {
+        "hex": "#303030",
+        "usage": "div",
+        "frequency": 1
+      }
+    ],
+    "typography": [
+      {
+        "fontFamily": "Google Sans Text",
+        "fontSize": "16px",
+        "element": "a"
+      },
+      {
+        "fontFamily": "Google Sans",
+        "fontSize": "96px",
+        "element": "h1"
+      },
+      {
+        "fontFamily": "Google Sans",
+        "fontSize": "24px",
+        "element": "button"
+      },
+      {
+        "fontFamily": "Arial",
+        "fontSize": "13.3333px",
+        "element": "button"
+      },
+      {
+        "fontFamily": "Google Sans",
+        "fontSize": "57px",
+        "element": "h2"
+      },
+      {
+        "fontFamily": "Google Sans Text",
+        "fontSize": "22px",
+        "element": "p"
+      },
+      {
+        "fontFamily": "Google Sans",
+        "fontSize": "45px",
+        "element": "h2"
+      },
+      {
+        "fontFamily": "Google Sans Text",
+        "fontSize": "14px",
+        "element": "h3"
+      }
+    ],
+    "spacing": [
+      {
+        "value": "24px",
+        "frequency": 26
+      },
+      {
+        "value": "1px",
+        "frequency": 23
+      },
+      {
+        "value": "2px",
+        "frequency": 8
+      },
+      {
+        "value": "96px",
+        "frequency": 5
+      },
+      {
+        "value": "8px",
+        "frequency": 4
+      },
+      {
+        "value": "32px",
+        "frequency": 2
+      },
+      {
+        "value": "64px",
+        "frequency": 2
+      },
+      {
+        "value": "20px",
+        "frequency": 1
+      },
+      {
+        "value": "56px",
+        "frequency": 1
+      },
+      {
+        "value": "4px",
+        "frequency": 1
+      },
+      {
+        "value": "120px",
+        "frequency": 1
+      }
+    ]
+  },
+  "components": [
+    {
+      "type": "button",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(77, 66, 86)",
+        "padding": "2px",
+        "borderRadius": "4px"
+      }
+    },
+    {
+      "type": "button",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(77, 66, 86)",
+        "padding": "2px",
+        "borderRadius": "4px"
+      }
+    },
+    {
+      "type": "navbar",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(31, 31, 31)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "navbar",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(31, 31, 31)",
+        "padding": "8px 0px 0px",
+        "borderRadius": "0px"
+      }
+    },
+    {
+      "type": "hero",
+      "styles": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(28, 27, 29)",
+        "padding": "0px",
+        "borderRadius": "0px"
+      }
+    }
+  ]
+}
