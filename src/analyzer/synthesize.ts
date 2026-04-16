@@ -1,15 +1,10 @@
 /**
- * Claude-Powered Design Analyzer
+ * Ollama Cloud-Powered Design Analyzer
  * Synthesizes extracted data into design patterns
  */
 
-import Anthropic from '@anthropic-ai/sdk';
 import * as fs from 'fs/promises';
 import * as path from 'path';
-
-const anthropic = new Anthropic({
-  apiKey: process.env.ANTHROPIC_API_KEY || ''
-});
 
 interface ExtractionData {
   metadata: { url: string; name: string; extractedAt: string };
@@ -19,6 +14,33 @@ interface ExtractionData {
     spacing: { value: string; frequency: number }[];
   };
   components: { type: string; styles: Record<string, string> }[];
+}
+
+const OLLAMA_URL = 'https://api.ollama.com/v1/chat/completions';
+const MODEL = 'kimi-k2.5:cloud';
+
+async function callOllama(prompt: string): Promise<string> {
+  const response = await fetch(OLLAMA_URL, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({
+      model: MODEL,
+      messages: [
+        { role: 'system', content: 'You are a design system expert. Analyze design extractions and provide structured insights.' },
+        { role: 'user', content: prompt }
+      ],
+      stream: false
+    }),
+  });
+
+  if (!response.ok) {
+    throw new Error(`Ollama API error: ${response.status}`);
+  }
+
+  const data = await response.json();
+  return data.choices[0]?.message?.content || '';
 }
 
 export async function analyzeDesign(extractionPath: string): Promise<string> {
@@ -50,13 +72,7 @@ Provide:
 6. Design tokens as CSS variables
 7. Recommendations for similar designs`;
 
-  const response = await anthropic.messages.create({
-    model: 'claude-sonnet-4-6',
-    max_tokens: 4000,
-    messages: [{ role: 'user', content: prompt }]
-  });
-
-  const analysis = response.content[0].type === 'text' ? response.content[0].text : '';
+  const analysis = await callOllama(prompt);
   
   // Save analysis
   const outputDir = path.dirname(extractionPath);
